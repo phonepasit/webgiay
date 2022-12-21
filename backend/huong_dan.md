@@ -7,8 +7,6 @@ B2: Gõ lệnh: npm run start
 
 
 
-
-
     Kết quả sẽ hiển thị: 
     RESTful API server started on: 3000
 
