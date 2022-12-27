@@ -1,7 +1,7 @@
 <div class="container_fullwidth">
    <div class="container">
       <div class="hot-products">
-         <h3 class="title">Sản Phẩm<strong> Mới</strong></h3>
+         <h3 class="title">Sản Phẩm<strong> Mới</strong></h3> 
          <div class="control"><a id="prev_hot" class="prev" href="#">&lt;</a><a id="next_hot" class="next" href="#">&gt;</a></div>
          <ul id="hot">
             <li>
