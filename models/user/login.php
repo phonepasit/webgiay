@@ -48,6 +48,7 @@ class LoginUser
 			"Content-Length: " . strlen($data),
 		));
 
+		
 		$response = json_decode(curl_exec($curl) . PHP_EOL);
 		curl_close($curl);
 		if ($response->{'code'} == 200) {
