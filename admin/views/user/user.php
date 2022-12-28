@@ -8,12 +8,12 @@ require('views/home.php')
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1>Danh Kách Khách Hàng</h1>
+                    <h1>Danh Sách Khách Hàng</h1>
                 </div>
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
                         <li class="breadcrumb-item"><a href="index.php?controller=admin&action=home">Admin</a></li>
-                        <li class="breadcrumb-item active">Danh Kách Khách Hàng</li>
+                        <li class="breadcrumb-item active">Danh Sách Khách Hàng</li>
                     </ol>
                 </div>
             </div>
