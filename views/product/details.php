@@ -292,6 +292,7 @@ require_once('views/permanent/menu.php');
               </div>
             </div>
           </div>
+          
           <!-- <div class="clearfix">
           </div>
           <div id="productsDetails" class="hot-products">
