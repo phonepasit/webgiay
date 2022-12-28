@@ -104,3 +104,4 @@ if (isset($_SESSION['cart'])) {
             </div>
         </div>
         <div class="clearfix"></div>
+        
